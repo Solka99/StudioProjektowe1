@@ -1,1 +1,1 @@
-# StudioProjektowe1
+# StudioProjektowe1 - Cleaned Version
